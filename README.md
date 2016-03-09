@@ -1,0 +1,2 @@
+# mmia_redis_tomcat-master
+redis_tomcat-master实现tomcat自动将session存储到redis集群中，实现session共享
